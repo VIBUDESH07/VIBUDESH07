@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3em; background: radial-gradient(45deg, #ff0000, #ff8000, #ffff00, #80ff00, #00ff80, #00ffff, #0080ff, #8000ff, #ff00ff); -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
+<h1 align="center" style="font-size: 3em;background-color:red; -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
 
 <h3 align="center">A passionate full stack developer from Tamil Nadu</h3>
 
@@ -56,10 +56,4 @@
 ## LeetCode Dashboard
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_R_B-22CSR233?theme=dark&font=IM%20Fell%20Double%20Pica&ext=heatmap)
 
-<style>
-@keyframes gradient-animation {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+
