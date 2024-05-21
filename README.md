@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm VIBUDESH R B</h1>
+<h1 align="center">
+  <a href="#" style="text-decoration: none; color: transparent;" onmouseover="this.style.color='black';" onmouseout="this.style.color='transparent';">
+    <span class="radial-text">Hi 👋, I'm VIBUDESH R B</span>
+  </a>
+</h1>
 <h3 align="center">A passionate full stack developer from Tamil Nadu</h3>
 
 # 💫 About Me:
