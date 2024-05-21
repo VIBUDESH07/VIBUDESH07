@@ -1,4 +1,4 @@
-# Hi 👋, I'm VIBUDESH R B
+
 
 <h1 align="center" style="font-size: 3em; background: linear-gradient(45deg, #ff0000, #ff8000, #ffff00, #80ff00, #00ff80, #00ffff, #0080ff, #8000ff, #ff00ff); -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
 
