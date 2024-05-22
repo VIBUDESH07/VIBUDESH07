@@ -57,7 +57,3 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_R_B-22CSR233?theme=dark&font=IM%20Fell%20Double%20Pica&ext=heatmap)
 
 
-## Stats
-<img src="https://raw.githubusercontent.com/VIBUDESH07/VIBUDESH07/output/snake.svg" alt="Snake animation" />
-
-###
