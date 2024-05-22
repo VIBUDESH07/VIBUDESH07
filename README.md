@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3em;background-color:red; -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
+<h1 align="center" style="font-size: 3em;color:red; -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
 
 <h3 align="center">A passionate full stack developer from Tamil Nadu</h3>
 
