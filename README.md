@@ -1,6 +1,4 @@
-
-
----<h1 align="center" style="font-size: 3em; background: linear-gradient(45deg, #ff0000, #ff9900, #ffff00, #33cc33, #33ccff, #9933ff, #ff33cc); -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
+<h1 align="center" style="font-size: 3em; background: linear-gradient(45deg, #ff0000, #ff9900, #ffff00, #33cc33, #33ccff, #9933ff, #ff33cc); -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
 
 <h3 align="center">A passionate full stack developer from Tamil Nadu</h3>
 
@@ -45,9 +43,13 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VIBUDESH07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VIBUDESH07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIBUDESH07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VIBUDESH07&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VIBUDESH07&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIBUDESH07&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VIBUDESH07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VIBUDESH07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -62,13 +64,3 @@
 ## Stats
 <img src="https://raw.githubusercontent.com/VIBUDESH07/VIBUDESH07/output/snake.svg" alt="Snake animation" />
 
-<style>
-@keyframes gradient-animation {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-h1 {
-  background-size: 400% 400%;
-}
-</style>
