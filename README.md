@@ -1,4 +1,6 @@
-<h1 align="center" style="font-size: 3em;color:red; -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
+
+
+---<h1 align="center" style="font-size: 3em; background: linear-gradient(45deg, #ff0000, #ff9900, #ffff00, #33cc33, #33ccff, #9933ff, #ff33cc); -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
 
 <h3 align="center">A passionate full stack developer from Tamil Nadu</h3>
 
@@ -59,3 +61,14 @@
 
 ## Stats
 <img src="https://raw.githubusercontent.com/VIBUDESH07/VIBUDESH07/output/snake.svg" alt="Snake animation" />
+
+<style>
+@keyframes gradient-animation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+h1 {
+  background-size: 400% 400%;
+}
+</style>
