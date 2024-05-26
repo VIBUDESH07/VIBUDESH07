@@ -44,6 +44,9 @@
 
 
 # 📊 GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibudesh07&show_icons=true&locale=en" alt="suganthchandran" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibudesh07&" alt="suganthchandran" /></p>
 
 
 
