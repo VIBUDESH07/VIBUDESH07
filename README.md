@@ -43,20 +43,21 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%2300C4CC.svg?style=for-the-badge&logo=Firebase&logoColor=white)
 
-
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibudesh07&show_icons=true&locale=en" alt="suganthchandran" /></p>
+![](https://github-readme-stats.vercel.app/api?username=vibudesh07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vibudesh07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibudesh07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibudesh07&" alt="suganthchandran" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VIBUDESH07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vibudesh07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VIBUDESH07&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vibudesh07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## LeetCode Dashboard
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_R_B-22CSR233?theme=dark&font=IM%20Fell%20Double%20Pica&ext=heatmap)
 
