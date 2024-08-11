@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/VIBUDESH07/VIBUDESH07/output/snake.svg">
+<img src=".github/workflows/VIBUDESH R B.png">
 <h1 align="center" style="font-size: 3em; background: linear-gradient(45deg, #ff0000, #ff9900, #ffff00, #33cc33, #33ccff, #9933ff, #ff33cc); -webkit-background-clip: text; color: transparent; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
 
 <h3 align="center">A passionate full stack developer from Tamil Nadu</h3>
