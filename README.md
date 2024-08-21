@@ -4,8 +4,8 @@
 <h3 align="center" style="color:red">A passionate full stack developer from Tamil Nadu</h3>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on Blood-bank-connection
-- 🌱 I’m currently learning Firebase
+- 🔭 I’m currently working on farmer app
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me about Web Development, Java, Python, and more!
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
