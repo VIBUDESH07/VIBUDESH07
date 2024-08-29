@@ -93,7 +93,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## LeetCode Dashboard
-![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_R_B-22CSR233?theme=dark&font=IM%20Fell%20Double%20Pica&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_BALAJI=dark&font=IM%20Fell%20Double%20Pica&ext=heatmap)
 
 
 ## Stats
