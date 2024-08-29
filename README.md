@@ -93,9 +93,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## LeetCode Dashboard
-![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_balaji?theme=dark&font=Oleo%20Script)
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_balaji?theme=dark&font=Oleo%20Script&ext=heatmap)
 ## Stats
 <img src="https://raw.githubusercontent.com/VIBUDESH07/VIBUDESH07/output/snake.svg" alt="Snake animation" />
 
