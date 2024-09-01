@@ -47,7 +47,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23E34F26.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Node](https://img.shields.io/badge/node-%23E34F26.svg?style=for-the-badge&logo=node&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
@@ -64,7 +63,7 @@
 
 ### Deployment
 
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2300BFFF.svg?style=for-the-badge&logo=render&logoColor=white)
 
