@@ -63,7 +63,7 @@
 
 ### Deployment
 
-
+![Docker](https://img.shields.io/badge/Docker-%2300C4CC.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2300BFFF.svg?style=for-the-badge&logo=render&logoColor=white)
 
