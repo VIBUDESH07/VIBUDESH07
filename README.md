@@ -2,7 +2,7 @@
 <h1 align="center" style="font-size: 3em; background: linear-gradient(45deg, #ff0000, #ff9900, #ffff00, #33cc33, #33ccff, #9933ff, #ff33cc); -webkit-background-clip: text; color: red; animation: gradient-animation 10s infinite;">Hi 👋, I'm VIBUDESH R B</h1>
 
 <h3 align="center" style="color:red">A passionate full stack developer from Tamil Nadu</h3>
-
+<h1 align="center" style="color:'red'">SIH 2k24 Finalist</h3>
 ## 💫 About Me:
 - 🔭 I’m currently working on farmer app
 - 🌱 I’m currently learning Flutter
