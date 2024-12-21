@@ -4,7 +4,7 @@
 #### A passionate full stack developer from Tamil Nadu
 
 ### 🏆 **SIH 2k24 WINNER** 
-*Project: Face Liveness Detection*
+
 
 ---
 
