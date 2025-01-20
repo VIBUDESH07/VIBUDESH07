@@ -9,8 +9,8 @@
 ---
 
 ## 💫 About Me:
-- 🔭 I’m currently working on a farmer app.
-- 🌱 I’m currently learning **Flutter**.
+- 🔭 I’m currently working on a CommuneX.
+- 🌱 I’m currently learning **Devops**.
 - 💬 Ask me about **Web Development**, **Java**, **Python**, and more!
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
