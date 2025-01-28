@@ -1,4 +1,3 @@
-![VIBUDESH R B](.github/workflows/VIBUDESH%20R%20B.png)
 
 # Hi 👋, I'm VIBUDESH R B
 #### A passionate full stack developer from Tamil Nadu
