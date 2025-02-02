@@ -46,8 +46,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_balaji?theme=dark&font=Oleo%20Script&ext=heatmap)
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vibudesh07&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VIBUDESH07&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 🏆 GitHub Trophies
