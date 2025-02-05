@@ -20,7 +20,7 @@
   <a href="https://vibudesh.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/vibudesh-r-b-906868256/" target="_blank">
+  <a href="https://www.linkedin.com/in/vibudesh07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/VIBUDESH07" target="_blank">
