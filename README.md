@@ -17,7 +17,7 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://alsiam.com" target="_blank">
+  <a href="https://vibudesh.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/vibudesh-r-b-906868256/" target="_blank">
