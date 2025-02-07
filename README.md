@@ -46,16 +46,18 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_balaji?theme=dark&font=Oleo%20Script&ext=heatmap)
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VIBUDESH07&theme=dark)](https://git.io/streak-stats)
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VIBUDESH07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VIBUDESH07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIBUDESH07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=vibudesh07&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VIBUDESH07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=VIBUDESH07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -68,4 +70,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=vibudesh07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+
