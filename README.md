@@ -53,7 +53,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
 # 📊 GitHub Stats:
-![](https://github-readme-activity-graph.vercel.app/graph?username=vibudesh07&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=00FF00&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=VIBUDESH07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VIBUDESH07&theme=dark&hide_border=false)<br/>
